@@ -32,6 +32,7 @@ No tasks added
     <input type="text" bind:value={userInput}>
     <button type="submit">Add Todo</button>
 </form>
+<a href="/about">About</a>
 
 <style>
     .danger {
